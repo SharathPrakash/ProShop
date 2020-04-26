@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProShop/static/css/main.afbe58c2.chunk.css",
+    "main.js": "/ProShop/static/js/main.938e8a0b.chunk.js",
+    "main.js.map": "/ProShop/static/js/main.938e8a0b.chunk.js.map",
+    "runtime-main.js": "/ProShop/static/js/runtime-main.ea9ebdaa.js",
+    "runtime-main.js.map": "/ProShop/static/js/runtime-main.ea9ebdaa.js.map",
+    "static/js/2.1a170f0d.chunk.js": "/ProShop/static/js/2.1a170f0d.chunk.js",
+    "static/js/2.1a170f0d.chunk.js.map": "/ProShop/static/js/2.1a170f0d.chunk.js.map",
+    "index.html": "/ProShop/index.html",
+    "precache-manifest.054ab8081c1b053de34af83db93d32e2.js": "/ProShop/precache-manifest.054ab8081c1b053de34af83db93d32e2.js",
+    "service-worker.js": "/ProShop/service-worker.js",
+    "static/css/main.afbe58c2.chunk.css.map": "/ProShop/static/css/main.afbe58c2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea9ebdaa.js",
+    "static/js/2.1a170f0d.chunk.js",
+    "static/css/main.afbe58c2.chunk.css",
+    "static/js/main.938e8a0b.chunk.js"
+  ]
+}
