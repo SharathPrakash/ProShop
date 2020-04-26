@@ -1,0 +1,241 @@
+[{
+  "id": 1,
+  "title": "Brocolli",
+  "price": 120,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 2,
+  "title": "Cauliflower",
+  "price": 60,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 3,
+  "title": "Cucumber",
+  "price": 48,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 4,
+  "title": "Beetroot",
+  "price": 32,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 5,
+  "title": "Carrot",
+  "price": 56,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/carrots.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 6,
+  "title": "Tomato",
+  "price": 16,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/tomato.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 7,
+  "title": "Beans",
+  "price": 82,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beans.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 8,
+  "title": "Brinjal",
+  "price": 35,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/brinjal.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 9,
+  "title": "Capsicum",
+  "price": 60,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/capsicum.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 10,
+  "title": "Mushroom",
+  "price": 75,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/button-mushroom.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 11,
+  "title": "Potato",
+  "price": 22,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/potato.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 12,
+  "title": "Pumpkin",
+  "price": 48,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pumpkin.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 13,
+  "title": "Corn",
+  "price": 75,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/corn.jpg",
+  "category": "vegetables",
+  "description": "From Farm"
+},
+{
+  "id": 14,
+  "title": "Onion",
+  "price": 16,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/onion.jpg",
+  "category": "vegetables",
+  "description": "Fresh"
+},
+{
+  "id": 15,
+  "title": "Apple",
+  "price": 72,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/apple.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 16,
+  "title": "Banana",
+  "price": 45,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
+  "category": "fruits",
+  "description": "Fresh"
+},
+{
+  "id": 17,
+  "title": "Grapes",
+  "price": 60,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/grapes.jpg",
+  "category": "fruits",
+  "description": "Fresh"
+},
+{
+  "id": 18,
+  "title": "Mango",
+  "price": 75,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/mango.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 19,
+  "title": "Musk Melon",
+  "price": 36,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/musk-melon.jpg",
+  "category": "fruits",
+  "description": "Fresh"
+},
+{
+  "id": 20,
+  "title": "Orange",
+  "price": 75,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/orange.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 21,
+  "title": "Pears",
+  "price": 69,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pears.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 22,
+  "title": "Pomegranate",
+  "price": 95,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pomegranate.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 23,
+  "title": "Raspberry - 1/4 Kg",
+  "price": 160,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/raspberry.jpg",
+  "category": "fruits",
+  "description": "From Farm"
+},
+{
+  "id": 24,
+  "title": "Strawberry - 1/4 Kg",
+  "price": 180,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/strawberry.jpg",
+  "category": "fruits",
+  "description": "Fresh"
+},
+{
+  "id": 25,
+  "title": "Water Melon",
+  "price": 28,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+  "category": "fruits",
+  "description": "Fresh"
+},
+{
+  "id": 26,
+  "title": "Almonds",
+  "price": 200,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/almonds.jpg",
+  "category": "nuts",
+  "description": "Fresh"
+},
+{
+  "id": 27,
+  "title": "Pista",
+  "price": 190,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pista.jpg",
+  "category": "nuts",
+  "description": "Fresh"
+},
+{
+  "id": 28,
+  "title": "Nuts Mixture",
+  "price": 950,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/nuts-mixture.jpg",
+  "category": "nuts",
+  "description": "Fresh"
+},
+{
+  "id": 29,
+  "title": "Cashews",
+  "price": 650,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/cashews.jpg",
+  "category": "nuts",
+  "description": "New"
+},
+{
+  "id": 30,
+  "title": "Walnuts",
+  "price": 170,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+  "category": "nuts",
+  "description": "new"
+}
+]
