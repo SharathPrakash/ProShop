@@ -5,6 +5,9 @@
   "private": true,
   "author": "sharath Prakash",
   "homepage": "https://sharathprakash.github.io/shopping_app_1/",
+   "engines": {
+    "node": "6.13.14"
+  }
   "keywords": [
     "react",
     "redux",
